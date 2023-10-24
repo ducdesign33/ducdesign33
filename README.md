@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ducdesign33
 - 👀 I’m interested in python, loT
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I'm work for a company
+- 💞️ I’m looking to collaborate on email: ducsesign33@gmail.com
 - 📫 How to reach me ...
 
 <!---
